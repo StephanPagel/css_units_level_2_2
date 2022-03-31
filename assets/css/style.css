@@ -1,0 +1,28 @@
+/* GENERAL */
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    fontsize: 10px;
+}
+
+/* HEADER */
+
+h3 {
+    font-size: 2em;
+    text-align: center;
+    background-color: rgba(48, 40, 40, 0.3);
+    color: rgba(176, 176, 176, 0.774);
+}
+
+/* MAIN */
+
+body {
+    background-image: url("../img/flag-7036018_1920.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
